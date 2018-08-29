@@ -58,6 +58,6 @@ $(function(){
             this.noteList.html( htmlStr );
         }
     };
-
+    // Called when DOM fully loads
     octopus.init();
 });
